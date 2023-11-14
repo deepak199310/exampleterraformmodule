@@ -1,0 +1,16 @@
+variable "acr_name"{}
+variable "deploy_region"{}
+variable "rg_name"{}
+variable "admin_enabled"{}       
+variable "sku"{}
+variable "public_network_access_enabled"{}
+variable "identity_type"{}
+variable "anonymous_pull_enabled"{}
+variable "network_rule_bypass_option"{}
+variable "default_action"{}
+variable "vnet_action"{}
+variable "subnet_id"{}
+variable "env"{}
+variable "project"{}
+variable "resource_name"{}
+variable "datecreated"{}
